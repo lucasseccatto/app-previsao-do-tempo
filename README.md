@@ -1,4 +1,4 @@
-<h1> API Previsão do Tempo </h1>
+<h1> APP Previsão do Tempo </h1>
 <h2> Aprendi a criação desse APP através da Missão Você Programador com o <a href="https://github.com/rodolfomori">Rodolfo Mori</a></h2>
 <h2> Tecnologias utilizadas</h2>
 <p> - HTML </p>
